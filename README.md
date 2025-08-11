@@ -32,5 +32,4 @@ Bu dosyalar, komut satırında size süreci göstererek ilgili sitelerden verile
 karsilastirma.py dosyasını çalıştırarak masaüstü uygulamasını başlatın.
 Uygulama açıldığında, "Dosyaları Yükle" butonuna tıklayarak az önce çektiğiniz .csv dosyalarını seçin.
 Uygulamanın arayüzünde bulunan arama kutusuna bir kitap adı yazın ve "Karşılaştır" butonuna basarak fiyat ve diğer bilgilerini farklı sitelerde karşılaştırın.
-
-"Aynı Başlıklı Kitapları Bul" butonuna tıklayarak, farklı sitelerde bulunan aynı isimli kitapları listeleyebilirsiniz.
+Aynı Başlıklı Kitapları Bul" butonuna tıklayarak, farklı sitelerde bulunan aynı isimli kitapları listeleyebilirsiniz.
